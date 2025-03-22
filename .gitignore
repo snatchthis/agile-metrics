@@ -174,5 +174,5 @@ cython_debug/
 .pypirc
 
 # Local folders with data
-#input/
-#output/
+input/
+output/
